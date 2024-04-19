@@ -1,0 +1,8 @@
+#Exclude Local and Virtual Environments 
+.env
+bpmvenv/
+omblepy-main
+
+
+#Exclude deprecated code
+connect.py
